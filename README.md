@@ -6,7 +6,7 @@ For details, quickstarts and documentation, see [the FoxMQ section of our docs s
 ## NOTICE
 
 This software is provided free of charge for evaluation purposes only. 
-You may not dissemble, redistribute, repackage or resell this software in any manner, including hosting it as a service.
+You may not disassemble, redistribute, repackage or resell this software in any manner, including hosting it as a service.
 Tashi Network Pte Ltd retains all rights.
 
 This software and any related documentation is provided "AS IS" without warranty of any kind, express or implied, 
